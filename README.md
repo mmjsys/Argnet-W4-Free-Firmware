@@ -8,6 +8,6 @@
 منم امدم فایل رو خریدم و به دردم نخورد چون دستگاه مخصوص رایت کردنش رو نداشتم 
 پس امدم اینجا رایگانشو گزاشتم تا حداقل مبلغی که دادم حیف نشه 
  ... و موجب بشم بقیه که دستگاه پروگرامر دارن کم تر خرج کنن.
-
+https://github.com/mmjsys/Argnet-W4-Free-Firmware/releases/download/untagged-22f05e6faeb9dea2eeec/Argent-Arg-W4.ashenay.aval.BIN
 <h2>استار هم فراموش نشه<h2>
 </div>
